@@ -5,7 +5,7 @@ and Port — Translation) implementation in the RDK-B broadband gateway platform
 deployed across SKY UK and SKY Italia broadband gateways.
 
 For a full technical write-up of this work, see:  
-**[How We Built One of Europe's First Large-Scale MAP-T Deployments on RDK-B](https://dev.to/saheer_kottakkadan_e51832)**
+**[How We Built One of Europe's First Large-Scale MAP-T Deployments on RDK-B]([https://dev.to/saheer_kottakkadan_e51832](https://dev.to/saheer_k6512/how-we-built-one-of-europes-first-large-scale-map-t-deployments-on-rdk-b-3go9))**
 
 ---
 
