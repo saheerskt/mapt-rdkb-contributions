@@ -5,7 +5,7 @@ and Port — Translation) implementation in the RDK-B broadband gateway platform
 deployed across SKY UK and SKY Italia broadband gateways.
 
 For a full technical write-up of this work, see:  
-**[How We Built One of Europe's First Large-Scale MAP-T Deployments on RDK-B]([https://dev.to/saheer_kottakkadan_e51832](https://dev.to/saheer_k6512/how-we-built-one-of-europes-first-large-scale-map-t-deployments-on-rdk-b-3go9])**
+**[How We Built One of Europe's First Large-Scale MAP-T Deployments on RDK-B](https://dev.to/saheer_k6512/how-we-built-one-of-europes-first-large-scale-map-t-deployments-on-rdk-b-3go9)**
 
 ---
 
@@ -109,7 +109,7 @@ non-volatile storage for field diagnostics.
 Full technical write-up covering the architecture, implementation details, 
 and lessons learned:
 
-👉 **[How We Built One of Europe's First Large-Scale MAP-T Deployments on RDK-B](https://dev.to/saheer_kottakkadan_e51832)**
+👉 **[How We Built One of Europe's First Large-Scale MAP-T Deployments on RDK-B](https://dev.to/saheer_k6512/how-we-built-one-of-europes-first-large-scale-map-t-deployments-on-rdk-b-3go9)**
 
 ---
 
@@ -118,5 +118,5 @@ and lessons learned:
 Senior Embedded Software Engineer with 12 years of experience in embedded Linux, 
 IoT, and broadband gateway platforms.
 
-- Blog: [dev.to/saheer_k](https://dev.to/saheer_k6512)
+- Blog: [dev.to/saheer_k6512](https://dev.to/saheer_k6512)
 - GitHub: [github.com/saheerskt](https://github.com/saheerskt)
